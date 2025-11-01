@@ -2,6 +2,15 @@
 
 A computer vision system that determines safe landing areas for Unmanned Aerial Vehicles (UAVs) by analyzing UAP (Uçan Araba Park - Flying Car Parking) and UAI (Uçan Ambulans İniş - Flying Ambulance Landing) zones.
 
+<p align="center">
+  <img src="uai/landing_area_example_photos/landing_area_black_and_white.png" alt="Before Annotation" width="45%"/>
+  <img src="uai/landing_area_example_photos/landing_area_rgb.png" alt="After Annotation" width="45%"/>
+</p>
+
+<p align="center">
+  <b>Before</b> 🡒 <b>After</b>
+</p>
+
 ## 📖 Detailed Article
 
 For a comprehensive explanation of the approach and methodology, read the full article on Medium:
